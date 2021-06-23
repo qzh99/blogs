@@ -17,3 +17,11 @@
 
 + https://www.nodejs.red/#/
 + https://github.com/qufei1993/Nodejs-Roadmap
+
+### 本地预览
+
+```
+D:\Github\blogs>docsify serve docs
+然后访问：http://localhost:3000
+```
+
